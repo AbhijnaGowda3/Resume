@@ -15,7 +15,7 @@
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.E in Computer Science & Engineering | Bangalore Institute of Technology, Bangalore | Expected 2027 | CGPA 8.4/10 |
+| B.E in Computer Science & Engineering | Bangalore Institute of Technology, Bangalore | Expected 2027 | CGPA 8.3/10 |
 | Intermediate (PUC) | St Mary's PU College, Chikmaglur | 2018–2023 | 93% |
 
 ---
