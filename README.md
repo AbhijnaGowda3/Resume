@@ -1,7 +1,7 @@
 # Resume
 # Abhijna Gowda — Developer Profile
 
-📞 +91 9740132633 · ✉️ abhijnagowda36@gmail.com
+📞 +91 9740132633 · ✉️ abhijnagowda36@gmail.com .Portfolio link:C:/Users/abhij/Downloads/portfolio_1.html
 
 ---
 
